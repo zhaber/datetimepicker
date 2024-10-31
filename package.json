@@ -46,7 +46,7 @@
   "devDependencies": {
     "@angular/cli": ">=1.6.2",
     "@angular/compiler-cli": ">=5.1.2",
-    "ng-packagr": "^1.6.0",
+    "ng-packagr": "^18.2.1",
     "typescript": ">=2.4.2 <2.6"
   }
 }
